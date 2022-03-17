@@ -1,8 +1,7 @@
 # MySQL start
 
-https://www.w3schools.com/nodejs/nodejs_mysql.asp
----
----
+[참고 nodejs_mysql](https://www.w3schools.com/nodejs/nodejs_mysql.asp)
+
 ## 로그인, show, use
 ```
 mysql -u web -p 1234

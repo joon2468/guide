@@ -1,4 +1,4 @@
-# 각종 프로그램 설치 및 개발 가이드 모음
+# 각종 프로그램 설치 및 개발 가이드용 저장소
 
 ## …or create a new repository on the command line
 ```
