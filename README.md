@@ -21,4 +21,4 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ## Phaser 게임
 <a href="https://joon2468.github.io/guide/snowman/" target="_blank">snowman</a>
-
+[링크이름](https://joon2468.github.io/guide/snowman/){:target="_blank"}
