@@ -20,5 +20,5 @@ git push -u origin main
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 ## Phaser 게임
-### snowman :
-https://joon2468.github.io/guide/snowman/
+<a href="https://joon2468.github.io/guide/snowman/" target="_blank">snowman</a>
+
