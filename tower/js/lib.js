@@ -1,0 +1,1 @@
+(()=>{(function(){var l={};window.addEventListener("load",()=>{console.log("lib.js");return;function o(){let d=Date.now();d-t>1e3?(t=d,document.querySelector(".fps-text").innerHTML=n,n=0):n++,window.requestAnimationFrame(o)}})})();})();
