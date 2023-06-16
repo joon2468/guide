@@ -2,4 +2,12 @@
   font-family: borsok;
   src: url("../fonts/borsok.ttf");
 }
+@font-face {
+  font-family: aggroM;
+  src: url("../fonts/SB 어그로 M.ttf");
+}
+@font-face {
+  font-family: oneMobilePop;
+  src: url("../fonts/ONE Mobile POP.ttf");
+}
 
